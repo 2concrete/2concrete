@@ -21,9 +21,8 @@
 
 ### 💻 Tech I'm Into
 
-- ✅ **HTML** & **CSS** (feelin' good here)
-- ⚛️ Currently learning **React.js**
-- ➡️ Up next: **TailwindCSS** (can't wait!)
+- ✅ **HTML** & ****TailwindCSS** (feelin' good here)
+- ⚛️ Mastering **React.js**
 
 ---
 
