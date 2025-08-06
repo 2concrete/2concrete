@@ -14,14 +14,14 @@
 
 - 🏫 I'm in **Year 12**, based in **Perth, Australia**
 - 🔧 Learning **Frontend Web Dev** step by step
-- 🎯 Hoping to study **Software Development @ Curtin University**
+- 🎯 Hoping to study **Information Technology @ Curtin University**
 - 💪 Staying consistent and motivated every day!
 
 ---
 
 ### 💻 Tech I'm Into
 
-- ✅ **HTML** & ****TailwindCSS** (feelin' good here)
+- ✅ **React** & ****TailwindCSS**
 - ⚛️ Mastering **React.js**
 
 ---
@@ -45,10 +45,8 @@
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
 </p>
 
 ---
