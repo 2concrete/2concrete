@@ -21,7 +21,7 @@
 
 ### 💻 Tech I'm Into
 
-- ✅ **React** & ****TailwindCSS**
+- ✅ **React** & **TailwindCSS**
 - ⚛️ Mastering **React.js**
 
 ---
