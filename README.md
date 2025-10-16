@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  🎓 Year 12 Student | 📍 Perth, WA | 💻 Future Software Developer
+  🎓 Year 12 Student | 📍 Perth, WA | 💻 Future Web Developer
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 💻 Tech I'm Into
 
 - ✅ **React** & **TailwindCSS**
-- ⚛️ Mastering **React.js**
+- ⚛️ Mastering **React.js and TypeScript**
 
 ---
 
