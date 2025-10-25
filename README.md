@@ -12,8 +12,9 @@
 
 ### 🧠 About Me
 
-- 🏫 Just left school based in **Perth, Australia**
+- 🏫 Just graduated highschool, based in **Perth, Australia**
 - 🔧 Learning **Frontend Web Dev** step by step
+- ⚙️ Love to tinker with my computer and desktop environment
 - 🎯 Hoping to study **Information Technology @ Curtin University**
 - 💪 Staying consistent and motivated every day!
 
@@ -28,16 +29,16 @@
 
 ### 🛠️ My Goals
 
-- 🔨 Build fun, responsive websites  
-- 🎓 Get into Curtin and grow as a dev  
-- 📈 Keep leveling up my skills every day  
+- 🔨 Build fun, responsive websites
+- 🎓 Get into Curtin and grow as a dev
+- 📈 Keep leveling up my skills every day
 
 ---
 
 ### 📬 Contact Me
 
-- 📧 **Email**: danielpeace654@gmail.com  
-- 💬 **Discord**: `2concrete`  
+- 📧 **Email**: danielpeace654@gmail.com
+- 💬 **Discord**: `2concrete`
 - 🛠️ Stay tuned for my **portfolio site** (coming soon)
 
 ---
@@ -47,4 +48,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="typescript" width="40"/>
+
 </p>
