@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  🎓 Year 12 Student | 📍 Perth, WA | 💻 Future Web Developer
+  🎓 Recent Graduate 📍 Perth, WA | 💻 Future Web Developer
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ### 🧠 About Me
 
-- 🏫 I'm in **Year 12**, based in **Perth, Australia**
+- 🏫 Just left school based in **Perth, Australia**
 - 🔧 Learning **Frontend Web Dev** step by step
 - 🎯 Hoping to study **Information Technology @ Curtin University**
 - 💪 Staying consistent and motivated every day!
 
 ---
 
-### 💻 Tech I'm Into
+### 💻 Languages I'm Into
 
 - ✅ **React** & **TailwindCSS**
 - ⚛️ Mastering **React.js and TypeScript**
