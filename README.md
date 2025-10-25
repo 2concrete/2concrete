@@ -48,10 +48,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
 </p>
-
----
-
-<p align="center">
-  🚀 Always learning. Always building. Always coding.  
-  <br>✨ Thanks for stopping by! ✨
-</p>
