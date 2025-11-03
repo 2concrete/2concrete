@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+<h1 align="center">hi, im daniel</h1>
 
 <p align="center">
-  🎓 Recent Graduate 📍 Perth, WA | 💻 Future Web Developer
+  🎓 Recently Graduated Highschool 📍 Perth, WA | 💻 Always learning new technologies
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Learning+Frontend+Development!;Dreaming+Big+%F0%9F%8C%9F;Building+Cool+Stuff+%F0%9F%94%A5" alt="Typing SVG" />
+  <sub>learning SwiftUI, and building on React skills</sub>
 </p>
 
 ---
@@ -13,15 +13,15 @@
 ### 🧠 About Me
 
 - 🏫 Just graduated highschool, based in **Perth, Australia**
-- 🔧 Learning **Frontend Web Dev** step by step
-- ⚙️ Love to tinker with my computer and desktop environment
+- 🔧 Been developing coding skills for 3 years
+- ⚙️ Always messing with my desktop environment and pc
 - 🎯 Hoping to study **Information Technology @ Curtin University**
-- 💪 Staying consistent and motivated every day!
 
 ---
 
 ### 💻 Languages I'm Into
 
+- 🆕 **Starting to learn IOS Development with SwiftUI**
 - ✅ **React** & **TailwindCSS**
 - ⚛️ Mastering **React.js and TypeScript**
 
@@ -29,9 +29,9 @@
 
 ### 🛠️ My Goals
 
-- 🔨 Build fun, responsive websites
+- 🔨 Build fun, responsive websites and useful IOS applications
 - 🎓 Get into Curtin and grow as a dev
-- 📈 Keep leveling up my skills every day
+- 📈 Code consistently
 
 ---
 
