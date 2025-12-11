@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <sub>learning SwiftUI, and building on React skills</sub>
+  <sub>mastering react</sub>
 </p>
 
 ---
@@ -21,7 +21,6 @@
 
 ### 💻 Languages I'm Into
 
-- 🆕 **Starting to learn IOS Development with SwiftUI**
 - ✅ **React** & **TailwindCSS**
 - ⚛️ Mastering **React.js and TypeScript**
 
@@ -29,7 +28,7 @@
 
 ### 🛠️ My Goals
 
-- 🔨 Build fun, responsive websites and useful IOS applications
+- 🔨 Build fun, responsive websites
 - 🎓 Get into Curtin and grow as a dev
 - 📈 Code consistently
 
@@ -49,7 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="typescript" width="40"/>
 
 </p>
