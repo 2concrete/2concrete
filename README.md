@@ -5,7 +5,7 @@
 <br>
 
 <p align="">
-studying information technology at curtin university
+
 
 web developer
 
