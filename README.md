@@ -7,10 +7,9 @@
 <p align="">
 
 
-web developer
+### web developer
 
-technologies:
-<br>
+#### technologies:
 react
 <br>
 tailwindcss
@@ -23,3 +22,5 @@ convexDB
 <br>
 clerkAuth
 </p>
+
+##### completing diploma of full stack web development at north metro tafe
